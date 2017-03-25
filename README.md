@@ -19,12 +19,12 @@ O mesmo segue para abrir um ou mais clientes:
 
 #Funcionamento do bate-papo:
 
-	Funcionamento do servidor:
-		O servidor é responsável por receber as mensagens dos clientes e a partir disso verificar se ela é um comando (bloquear, desbloquear, enviar mensagem privada, lista de onlines, lista de bloqueados, sair). Além disso, o servidor deve manter o correto funcionamento do bate-papo, executando o comando que é pedido pelo cliente ou enviando mensagem de um deles para todos os outros.
+Funcionamento do servidor:
+	O servidor é responsável por receber as mensagens dos clientes e a partir disso verificar se ela é um comando (bloquear, desbloquear, enviar mensagem privada, lista de onlines, lista de bloqueados, sair). Além disso, o servidor deve manter o correto funcionamento do bate-papo, executando o comando que é pedido pelo cliente ou enviando mensagem de um deles para todos os outros.
 
-	Funcionamento do cliente:
-		Quando o cliente se conecta ao servidor, ele deve informar seu nome/apelido, sendo que este não pode ser igual ao nome/apelido de nenhum dos usuários que estão conectados no momento.
-		O cliente pode mandar tanto mensagens públicas quanto mensagens privadas. Além disso, ele pode bloquear e desbloquear usuários, ver lista de clientes conectados no bate-papo no presente momento e visualizar a lista de usuários que estão bloqueados.
+Funcionamento do cliente:
+	Quando o cliente se conecta ao servidor, ele deve informar seu nome/apelido, sendo que este não pode ser igual ao nome/apelido de nenhum dos usuários que estão conectados no momento.
+	O cliente pode mandar tanto mensagens públicas quanto mensagens privadas. Além disso, ele pode bloquear e desbloquear usuários, ver lista de clientes conectados no bate-papo no presente momento e visualizar a lista de usuários que estão bloqueados.
 
 #Comandos que podem ser usados pelo cliente:
 
